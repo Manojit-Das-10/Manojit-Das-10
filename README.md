@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madboy-10&label=Profile%20views&color=0e75b6&style=flat" alt="madboy-10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madboy-10" alt="madboy-10" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/manojit180603" target="blank"><img src="https://img.shields.io/twitter/follow/manojit180603?logo=twitter&style=for-the-badge" alt="manojit180603" /></a> </p>
 
 - 💬 Ask me about **MERN | C++ | GCP**
