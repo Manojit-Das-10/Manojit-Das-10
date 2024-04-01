@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manojit_das_10" target="blank"><img src="https://img.shields.io/twitter/follow/manojit_das_10?logo=twitter&style=for-the-badge" alt="manojit_das_10" /></a> </p>
 
-- 🔭 I’m currently I’m currently Studying **BTech (Computer Science and Engineering)**
+- 🔭 I’m currently Studying **BTech (Computer Science and Engineering)**
 
 - 🌱 I’m currently learning **JS & CPP**
 
