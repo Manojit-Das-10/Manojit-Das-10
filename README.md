@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently I’m currently Studying **BTech (Computer Science and Engineering)**
 
-- 🌱 I’m currently learning **HTML5,CSS,JS,CPP,GCP**
+- 🌱 I’m currently learning **JS & CPP**
 
 - 💬 Ask me about **MERN | C++ | GCP**
 
