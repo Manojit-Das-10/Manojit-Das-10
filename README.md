@@ -5,7 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojit-das-10&label=Profile%20views&color=0e75b6&style=flat" alt="manojit-das-10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manojit_das_10" target="blank"><img src="https://img.shields.io/twitter/follow/manojit_das_10?logo=twitter&style=for-the-badge" alt="manojit_das_10" /></a> </p>
+<div align="left">
+        <a href="https://manojit-das.netlify.app/" target="blank"><img src="https://img.icons8.com/bubbles/50/resume.png" alt="Manojit Das" /> 
+          <p align="left">
+            Connect With Me
+          </p>
+        </a>   
+</div>
 
 - 🔭 I’m currently Studying **BTech (Computer Science and Engineering)**
 
