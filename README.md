@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently Studying **B.Tech (Computer Science and Engineering)**
 
-- 🌱 I’m currently learning **React & DSA**
+- 🌱 I’m currently learning **Backend & DSA**
 
-- 💬 Ask me about **MERN | C++ | GCP**
+- 💬 Ask me about **MERN | C++**
 
-- 👨‍💻 My portfolio website [Click Here](https://manojit-das.netlify.app/)
+- 👨‍💻 My portfolio website [Click Here](https://manojitdas.netlify.app/)
 
 - 📄 My Resume [Download](https://rxresu.me/momiboy10/resume-tech)
 
