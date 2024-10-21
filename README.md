@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio website [Click Here](https://manojitdas.netlify.app/)
 
-- 📄 My Resume [Download](https://rxresu.me/momiboy10/resume-tech)
+- 📄 My Resume [Download](https://rxresu.me/momiboy10/resume-f)
 
 - 📝 Discover my latest article here! [Explore further](https://medium.com/@manojitdas180306)
 
